@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
-from PIL import Image, ImageTk
 import speech_recognition as sr
 from textblob import TextBlob
 import turtle
