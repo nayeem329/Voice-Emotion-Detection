@@ -1,4 +1,3 @@
-
 # Voice Emotion Detection
 
 Voice Emotion Detection is an advanced Python project that harnesses the power of speech recognition and sentiment analysis to analyze spoken language and detect the underlying emotions conveyed by the speaker's voice. This project provides real-time emotion detection capabilities with customizable visualizations, making it a versatile tool for understanding and interpreting human emotions through speech.
